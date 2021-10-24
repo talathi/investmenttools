@@ -1,0 +1,12 @@
+BIV 8.33 72 Bond Fixed Income Intermediate
+DBC 8.33 345 Stock Commodity
+PCY 8.33 205 Bond International Fixed Income 
+SHYG 8.33 126 Bond Short Term Gov
+TIP 8.33 52 Bond Treasury Inflation Protected
+VAW 8.33 40 Stock Nat Resources
+VB 8.33 38 Stock Domestic Small Cap
+VEU 8.33 104 Stock International Developed
+VNQ 8.33 76 Specialty REIT
+VO 8.33 36 Stock Domestic Mid Cap
+VTV 8.33 51 Stock Domestic Large Cap
+VWO 8.33 121 Stock International Emerging

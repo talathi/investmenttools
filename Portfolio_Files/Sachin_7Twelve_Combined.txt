@@ -1,0 +1,22 @@
+AGG 4.16 25 Bond Fixed Income
+BIV 4.16 53 Bond Fixed Income Intermediate
+DBC 4.16 253 Stock Commodity
+EMB 4.16 23 Bond International Fixed Income
+FENY 4.16 149 Stock Energy Index
+FMAT 8.33 87 Stock Nat Resources
+FREL 4.16 114 Specialty REIT
+IEFA 4.16 43 Stock International Developed
+IEMG 4.16 80 Stock International Emerging
+IJH 4.16 22 Stock Domestic Mid Cap
+IJR 4.16 51 Stock Domestic Small Cap
+IVV 4.32 15 Stock Domestic Large Cap
+PCY 4.16 205 Bond International Fixed Income 
+SHY 4.16 32 Bond Treasury Inflation Protected
+TIP 8.33 78 Bond Treasury Inflation Protected
+VB 4.16 27 Stock Domestic Small Cap
+VEU 4.16 80 Stock International Developed
+VNQ 4.16 54 Specialty REIT
+VO 4.16 27 Stock Domestic Mid Cap
+VTV 4.32 41 Stock Domestic Large Cap
+VWO 4.16 99 Stock International Emerging
+USFR 4.16 0  Treasury Bond fund

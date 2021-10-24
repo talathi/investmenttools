@@ -1,0 +1,10 @@
+#This document summarizes the steps in my stock analysis plan
+
+### Step 1.
+Identify the potential list of stocks trading at a discount.. according to the MagicFormula Metric 
+
+### Step 2. 
+Look into intrisic value of the selected stocks using morning star data 
+
+#### Step 3.
+Carefully perform fundamental analysis on selected stocks using Warrent Buffet Financial analysis plan

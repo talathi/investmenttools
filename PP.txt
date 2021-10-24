@@ -1,0 +1,4 @@
+itot 25 0 etf
+tlt 25 0 etf
+shy 25 0 etf 
+iau 25 0 etf

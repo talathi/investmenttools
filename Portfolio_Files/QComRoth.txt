@@ -1,0 +1,10 @@
+viiix 28 109 Mutual_Fund
+vmcpx 6 26 Mutual_Fund
+acwi 10 130 Stock Developed Nations 
+agg 12 78 Bond total US Bonds 
+fsta 11 252 Stock US Consumner staples
+iemg 7 126 Stock Emerging Markets    
+ijs 4 25 Stock Small Cap 
+iyr 5 47 Specialty REIT
+lqd 13 78 Bond US Corporate Bond
+brk.b 4 19 Equivalent of Large-cap 

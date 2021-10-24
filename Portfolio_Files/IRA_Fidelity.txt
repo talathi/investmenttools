@@ -1,0 +1,12 @@
+AGG 8.33 25 Bond Fixed Income Intermediate
+FENY 8.33 148 Stock Energy Index
+EMB 8.33 23 Bond International Fixed Income 
+FMAT 8.33 87 Stock Nat Resources
+FREL 8.33 112 Specialty REIT
+IJR 8.33 37 Stock Domestic Small Cap
+IEFA 8.33 43 Stock International Developed
+IJH 8.33 15 Stock Domestic Mid Cap
+IVV 8.33 10 Stock Domestic Large Cap
+IEMG 8.33 52 Stock International Emerging
+TIP 8.33 25 Treasury inflation protected
+SHY 8.33 32 Bond Treasury Inflation Protected

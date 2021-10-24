@@ -1,0 +1,36 @@
+BIV 10 42 Bond Fixed Income Intermediate
+BND 22 96 Bond Fixed Income Intermediate
+JNK 2 17 Bond Fixed Income Corporate
+PCY 6 74 Bond International Fixed Income 
+VB 4 13 Stock Domestic Small Cap
+VEU 10 69 Stock International Developed
+VNQ 3 14 Specialty REIT
+VO 6 19 Stock Domestic Mid Cap
+VTV 30 137 Stock Domestic Large Cap
+VWO 7 58 Stock International Emerging
+AGG 12 34 Bond  Fixed Income Intermediate
+BWX 30 12 Bond International Fixed Income 
+IWP 6 10 Stock Domestic Mid Cap
+PRF 35 57 Stock Domestic Large Cap
+SLVP 0 110 Specialty Mineral
+IAU 2 0 Specialty Gold
+VBK 13 5 Stock Domestic Small Cap
+VEA 1 50 Stock International Developed
+VWO 1 19 Stock International Emerging
+VDC 16 88 Stock Consumer Staples
+VSS 9 53 Stock Non-Domestic Small Cap
+VO 3 17 Stock Domestic Mid Cap
+VNQ 7 60 Specialty REIT
+VOO 30 108 Stock S&P Index
+VCSH 18 143 Bond Short Term Corporate
+VWEHX 7 727 Bond High Yield Corporate
+VIPSX 5 235 Bond Inflation Protected
+VGPMX 5 294 Specialty Precious metal
+viiix 30 0 Stock Large Cap
+vmcpx 6 0 Stock Mid Cap
+ijs 4 0 Stock Small Cap
+acwi 10 0 Stock Developed Nations
+iemg 7 0 Stock Emerging Markets
+agg 12 0 Bond total US Bonds
+mub 13 0 Bond US Muni Bond
+fsta 13 0 Stock US Consumner staples

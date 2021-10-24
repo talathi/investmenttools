@@ -1,0 +1,12 @@
+AGG 8.33 38 Bond Fixed Income Intermediate
+DBC 8.33 237 Stock Commodity*
+IJH 8.33 21 Stock Mid Cap
+IVV 8.33 14 Stock Large cap Blend
+PCY 8.33 144 Bond Emerging Market
+TIP 8.33 36 Bond Treasury Inflated
+VAW 8.33 30 Stock Natural Resources*
+VBR 8.33 30 Stock Mid cap Value
+VEA 8.33 91 Stock International Developed
+VGSH 8.33 58 Bond Short Term Gov 
+VNQ 8.33 54 Specialty Real Estate
+VWO 8.33 84 Stock International Emerging

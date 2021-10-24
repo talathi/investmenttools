@@ -1,0 +1,10 @@
+VTI 14.9 0 ETF-US total market
+IVE 15.2 0 ETF-US large cap
+IWS 4.9 0 ETF-US mid cap
+IWN 4.5 0 ETF-US small cap
+VEA 33.3 0 ETF-Developed Market
+VWO 7.9 0 ETF-Emerging market
+MUB 10.8 0 ETF-Muni Bond
+LQD 1.1 0 ETF-US Corporate bond
+BNDX 4.5 0 ETF-International bond
+VWOB 2.8 0 ETF-Emerging Bond

@@ -1,0 +1,3 @@
+brk-b 25 35 stock
+gld 25 35 etf
+viiix 50 10 mutual 

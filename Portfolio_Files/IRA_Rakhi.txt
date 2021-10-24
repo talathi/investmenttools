@@ -1,0 +1,8 @@
+AGG 13 19 Bond  Fixed Income Intermediate
+PCY 10 58 Bond Emerging Market
+VCIT 7 13 Bond Corporate
+VEA 13 56 Stock International Developed
+VIG 10 22 Stock Dividend Domestic
+VNQ 10 22 Specialty Real Estate
+VTI 25 41 Stock All US
+VWO 12 48 Stock International Emerging

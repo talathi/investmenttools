@@ -1,0 +1,9 @@
+VDC 16 90 Stock Consumer Staples
+VSS 9 62 Stock Non-Domestic Small Cap
+VO 3 16 Stock Domestic Mid Cap
+VNQ 7 66 Specialty REIT
+VOO 30 103 Stock S&P Index
+VCSH 18 178 Bond Short Term Corporate
+VWEHX 7 930 Mutual Fund Bond High Yield Corporate
+VIPSX 5 271 Mutual Fund Bond Inflation Protected
+VGPMX 5 358 Mutual Fund Specialty Precious metal
